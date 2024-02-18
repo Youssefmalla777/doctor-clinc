@@ -1,0 +1,25 @@
+C:\Users\High Tech\Desktop\projects\doctor clinc\doctor clinc\bin\Debug\doctor clinc.exe.config
+C:\Users\High Tech\Desktop\projects\doctor clinc\doctor clinc\bin\Debug\doctor clinc.exe
+C:\Users\High Tech\Desktop\projects\doctor clinc\doctor clinc\bin\Debug\doctor clinc.pdb
+C:\Users\High Tech\Desktop\projects\doctor clinc\doctor clinc\obj\Debug\doctor clinc.csprojResolveAssemblyReference.cache
+C:\Users\High Tech\Desktop\projects\doctor clinc\doctor clinc\obj\Debug\doctor_clinc.Properties.Resources.resources
+C:\Users\High Tech\Desktop\projects\doctor clinc\doctor clinc\obj\Debug\doctor clinc.csproj.GenerateResource.Cache
+C:\Users\High Tech\Desktop\projects\doctor clinc\doctor clinc\obj\Debug\doctor clinc.exe
+C:\Users\High Tech\Desktop\projects\doctor clinc\doctor clinc\obj\Debug\doctor clinc.pdb
+C:\Users\High Tech\Desktop\projects\doctor clinc\doctor clinc\obj\Debug\doctor_clinc.Form1.resources
+C:\Users\High Tech\Desktop\projects\doctor clinc\doctor clinc\obj\Debug\doctor_clinc.main.resources
+C:\Users\High Tech\Desktop\doctor clinc\doctor clinc\bin\Debug\doctor clinc.exe.config
+C:\Users\High Tech\Desktop\doctor clinc\doctor clinc\obj\Debug\doctor clinc.exe
+C:\Users\High Tech\Desktop\doctor clinc\doctor clinc\obj\Debug\doctor clinc.pdb
+C:\Users\High Tech\Desktop\doctor clinc\doctor clinc\bin\Debug\doctor clinc.exe
+C:\Users\High Tech\Desktop\doctor clinc\doctor clinc\bin\Debug\doctor clinc.pdb
+C:\Users\High Tech\Desktop\doctor clinc\doctor clinc\obj\Debug\doctor clinc.csprojResolveAssemblyReference.cache
+C:\Users\High Tech\Desktop\doctor clinc\doctor clinc\obj\Debug\doctor_clinc.Form1.resources
+C:\Users\High Tech\Desktop\doctor clinc\doctor clinc\obj\Debug\doctor_clinc.main.resources
+C:\Users\High Tech\Desktop\doctor clinc\doctor clinc\obj\Debug\doctor_clinc.Properties.Resources.resources
+C:\Users\High Tech\Desktop\doctor clinc\doctor clinc\obj\Debug\doctor clinc.csproj.GenerateResource.Cache
+C:\Users\High Tech\Desktop\projects\doctor clinc\doctor clinc\obj\Debug\doctor_clinc.data.resources
+C:\Users\High Tech\Desktop\projects\doctor clinc\doctor clinc\obj\Debug\doctor_clinc.doctor.resources
+C:\Users\High Tech\Desktop\projects\doctor clinc\doctor clinc\obj\Debug\doctor_clinc.sales.resources
+C:\Users\High Tech\Desktop\projects\doctor clinc\doctor clinc\obj\Debug\doctor_clinc.reservation.resources
+C:\Users\High Tech\Desktop\projects\doctor clinc\doctor clinc\obj\Debug\doctor_clinc.medical.resources
